@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cbaldini
-- 👀 I’m interested in ... Java / Kotlin / MongoDB / Microservices / DevOps
-- 🌱 I’m currently learning ... Quarkus / CriteriaBuilder / Java 11
-- 💞️ I’m looking to collaborate on ... Java Rest APIs projects
+- 👀 I’m interested in ... Java / Kotlin / MongoDB / Microservices / DevOps / Spring / Quarkus
+- 🌱 I’m currently learning ... AWS
+- 💞️ I’m looking to collaborate on ... Java Microservices / APIs projects
 - 📫 How to reach me ... https://www.linkedin.com/in/cbaldini/
 
 <!---
